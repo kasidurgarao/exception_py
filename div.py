@@ -9,4 +9,3 @@ except ZeroDivisionError:
 
 #Output should be an integer
 
-#Output should be an integer
