@@ -5,3 +5,5 @@ try:
     print(result)
 except ZeroDivisionError:
     print("enter the other than 0 in input2")
+
+#Output should be an integer
